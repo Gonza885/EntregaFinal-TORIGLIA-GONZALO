@@ -1,0 +1,42 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    
+    
+    
+
+}
+
+li{
+    display: inline-block;
+    margin: 1.5rem;
+    font-size: larger;
+    cursor: pointer;
+    background-color: gold;
+    font-style:italic; 
+
+    
+
+}
+
+.imgFootballShirts{
+    width: 15rem ;
+    margin-left: 40px;
+    padding: 20px;
+    border: solid gold;
+}
+
+h1{
+    color: gold;
+    margin-left: 40px;
+    font-family:'Lobster';
+    
+
+}
+
+
+
+
+

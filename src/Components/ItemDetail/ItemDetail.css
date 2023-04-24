@@ -1,0 +1,18 @@
+.contenedorItem {
+    text-align: center;
+    border: 10px solid rgba(253, 232, 114, 0.534);
+    color: rgb(241, 224, 124);
+    margin: 3rem
+    
+    
+
+    
+}
+
+img {
+    width: 30vw;
+}
+
+h2{
+    font-family:cursive;
+}
