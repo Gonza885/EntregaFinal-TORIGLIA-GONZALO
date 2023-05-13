@@ -12,7 +12,7 @@ const ItemList = ({ products }) => {
 
 
         </div>
-        //Si el map lo haces en otra linea tenes que utilizar el return
+        
     )
 }
 

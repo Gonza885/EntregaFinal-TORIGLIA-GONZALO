@@ -1,42 +1,108 @@
-header {
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    
+  }
+
+  body{
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    width: 100%;
+    max-width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-bottom: 1px solid black;
-    
-    
-    
+    border-bottom: 1px solid white;
+    background-size: cover;
+    backdrop-filter:blur(5px);
+    height: 15%;
+    background: linear-gradient(120deg, #1d8348, #0b5345);
+    position:absolute;
+    z-index: 999;
+    top: 0;
+  }
+
+header li a {
+    color: black;
+    border-radius: 25px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    border: 2px solid #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    background-color: #8BC34A;
+    transition: background-color 0.3s, border 0.3s;
 
 }
 
-li{
+header li a:hover {
+    background-color: #689F38;
+    border: 2px solid #689F38;
+}
+
+a{
+  color: white;
+}
+  
+  li{
+    size: 10rem;
     display: inline-block;
     margin: 1.5rem;
     font-size: larger;
     cursor: pointer;
-    background-color: gold;
-    font-style:italic; 
+    font-style:'Lobster'; 
+    text-decoration: none;
+    border-radius: 0.5rem;
+    transition: all 0.3s ease-in-out;
+  }
 
     
-
-}
-
-.imgFootballShirts{
-    width: 15rem ;
-    margin-left: 40px;
-    padding: 20px;
-    border: solid gold;
-}
-
-h1{
-    color: gold;
-    margin-left: 40px;
+  .imgFootballShirts{
+    width: 5rem ;
+    padding: 10px;
+   
+  }
+  
+  h1{
+    color: black;
+    margin-left: 10px;
     font-family:'Lobster';
-    
+  }
+  
+  header li a{
+    color: black;
+    border-radius: 25px;
+    text-decoration: none;
+  }
+  
+  @media screen and (min-width: 1200px) {
+    header {
+      max-width: 1450px;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    header {
+      flex-direction: column;
+      align-items: stretch;
+      justify-content: center;
+    }
+  
+    li {
+      display: block;
+      margin: 0.5rem;
+    }
+  }
 
-}
-
-
-
-
-
+  @media screen and (max-width: 768px) {
+    header li a {
+      font-size: 0.8rem; 
+      padding: 8px 16px; 
+    }
+  }

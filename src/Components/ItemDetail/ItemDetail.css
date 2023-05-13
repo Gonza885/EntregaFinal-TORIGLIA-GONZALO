@@ -1,18 +1,27 @@
 .contenedorItem {
+    margin-top: 50px;
     text-align: center;
-    border: 10px solid rgba(253, 232, 114, 0.534);
-    color: rgb(241, 224, 124);
-    margin: 3rem
-    
-    
-
-    
-}
-
-img {
+    color: white;
+    padding: 60px;
+    margin: 60px;
+    z-index: 20;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .contenedorItem a {
+    color:black;
+    font-weight: bold;
+    font-size: x-large;
+    align-self: center;
+  }
+  
+  img {
     width: 30vw;
-}
-
-h2{
-    font-family:cursive;
-}
+  }
+  
+  h2 {
+    font-family: cursive;
+  }

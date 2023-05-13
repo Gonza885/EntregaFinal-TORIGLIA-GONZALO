@@ -1,0 +1,60 @@
+div{
+  text-align: center;
+  
+}
+
+div h2, div h3, div p {
+  color: aliceblue;
+}
+
+form, div h2 form {
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+div h4{
+  color: greenyellow;
+  font-weight: bold;
+  
+}
+label {
+  margin-bottom: 10px;
+  color: white;
+}
+
+input {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  width: 100%;
+  max-width: 400px;
+}
+
+button[type="submit"] {
+  background-color: #3e64af;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button[type="submit"]:hover {
+  background-color: #2a437e;
+}
+
+p {
+  margin: 5px 0;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+hr {
+  margin: 20px 0;
+}

@@ -1,13 +1,13 @@
 const products = [
-    { id: "1", nombre: "Barcelona", precio: 3750, img: "../CamisetasDeFutbol/BarcelonaVintage.jpg", idCat: "2" },
-    { id: "2", nombre: "Boca Juniors", precio: 7000, img: "../CamisetasDeFutbol/BocaJuniorsVintage.jpg", idCat: "2" },
-    { id: "3", nombre: "Brasil", precio: 6000, img: "../CamisetasDeFutbol/Brazil.jpg", idCat: "1" },
-    { id: "4", nombre: "Chelsea", precio: 3000, img: "../CamisetasDeFutbol/Chelseaa.jpg", idCat: "1" },
-    { id: "5", nombre: "Francia Retro", precio: 2590, img: "../CamisetasDeFutbol/Francee.jpg", idCat: "2" },
-    { id: "6", nombre: "Manchester United", precio: 5000, img: "../CamisetasDeFutbol/ManchesterUnited.jpg", idCat: "1" },
-    { id: "7", nombre: "Milan", precio: 4580, img: "../CamisetasDeFutbol/Milan.jpg", idCat: "2" },
-    { id: "8", nombre: "Paises Bajos", precio: 4000, img: "../CamisetasDeFutbol/NetherlandsVintage.jpg", idCat: "2" },
-    { id: "9", nombre: "Real Madrid", precio: 6500, img: "../CamisetasDeFutbol/realMadridvintage.jpg", idCat: "2" },
+    { id: "1", nombre: "Barcelona", precio: 3750, stock:10, img: "../CamisetasDeFutbol/BarcelonaVintage.jpg", idCat: "2" },
+    { id: "2", nombre: "Boca Juniors", precio: 7000, stock:10, img: "../CamisetasDeFutbol/BocaJuniorsVintage.jpg", idCat: "2" },
+    { id: "3", nombre: "Brasil", precio: 6000, stock:5, img: "../CamisetasDeFutbol/Brazil.jpg", idCat: "1" },
+    { id: "4", nombre: "Chelsea", precio: 3000, stock:10, img: "../CamisetasDeFutbol/Chelseaa.jpg", idCat: "1" },
+    { id: "5", nombre: "Francia Retro", precio: 2590, stock:10, img: "../CamisetasDeFutbol/Francee.jpg", idCat: "2" },
+    { id: "6", nombre: "Manchester United", precio: 5000, stock:10, img: "../CamisetasDeFutbol/ManchesterUnited.jpg", idCat: "1" },
+    { id: "7", nombre: "Milan", precio: 4580, stock:10, img: "../CamisetasDeFutbol/Milan.jpg", idCat: "2" },
+    { id: "8", nombre: "Paises Bajos", precio: 4000, stock:10, img: "../CamisetasDeFutbol/NetherlandsVintage.jpg", idCat: "2" },
+    { id: "9", nombre: "Real Madrid", precio: 6500, stock:10, img: "../CamisetasDeFutbol/realMadridvintage.jpg", idCat: "2" },
     
 ]
 
