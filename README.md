@@ -1,82 +1,9 @@
-<!-- # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
- -->
-
-
- # PROYECTO FINAL- CURSO REACT JS COMISION 39660 CODERHOUSE
+# PROYECTO FINAL- CURSO REACT JS COMISION 39660 CODERHOUSE
 ## "FOOTBALL SHIRTS"
 DEMO: deploy (ACORDATEEE)
 
 ## DESCRIPCIÓN DE LA PAGINA
- ![Inicio FOOTBALL SHIRTS](https://www.dropbox.com/s/gfx3ebbm7sjae1t/InicioFS.png?dl=0)
+ ![Inicio FOOTBALL SHIRTS](https://previews.dropbox.com/p/thumb/AB759ALdC9LzBKkgcDj9Bs2S0X3Cw5GEjCxpQwlXQjrGSdrsPO_U2iA0T0qj0Up2-kMXNzozcD6GqGs5G1U_ZvX3PdblVnqEhAbRvKcu1PtUFq-F__7gbBwKDjY0PcBF5MaXAn2a1WAjNl_xxQj9ZvvSPER5mKsvEfsAi-5Ya-u_bbHWYniNSBEGQbTJBqzZaZwM3g0OD6xxDyOO8_SGKgNdfvrIETGg7Z6LQJ0_Sr-KSL0_ySQL17kA3OyBPEUeofNIfAjI8JWzMJrMTVnpxPyhiHwUgThRl0UGKk_v5brEHnuCGPHaqSdhtuFOHvIm9SH23akR_r3lBhmDjTyS6oBl8C8z1gg5SqQgGkGvvVdfaWNEEb4TXrh9E5Bzw31o2K3J5Kpv2_BnBfae5YgPii2CCwd0FLjx-4EFUjM70p7jR6Xry_UuqvSWnQBXKIJg9Yw/p.png)
  Football Shirts es una pagina de venta de camisetas de futbol donde encontraras algunas actuales como tambien retros.  ![Categorias FOOTBALL SHIRTS](https://www.dropbox.com/s/9ndt61ds8j784yi/HeaderFS.png?dl=0)
   Como se puede apreciar en la imagen, tenemos para seleccionar el tipo de camiseta que buscamos, separadas en dos categorias "Retro" para camisetas mas antiguas y "Camisetas" para casacas mas modernas.
   ![Descripcion FOOTBALL SHIRTS](https://www.dropbox.com/s/jffcu8lqlk6fwut/DescripcionProductosFS.png?dl=0)
@@ -89,7 +16,6 @@ DEMO: deploy (ACORDATEEE)
     Una vez que nuestra compra fue realizada con éxito, se genera la orden de compra como se muestra en la imagen y ya hemos adquirido el producto.
     
     ##DEPENDENCIAS USADAS EN EL PROYECTO.
-    
     @testing-library/jest-dom: Es una librería que proporciona utilidades para trabajar con Jest, un popular framework de pruebas para JavaScript. Permite realizar aserciones de forma más sencilla en el código de pruebas.
 
     @testing-library/react: Es una librería para pruebas en React que proporciona un conjunto de utilidades para interactuar con los componentes de React y comprobar su comportamiento.
@@ -111,3 +37,8 @@ DEMO: deploy (ACORDATEEE)
     ##Conclusion
     
     Esta fue una breve explicacion de como funciona nuestra pagina "Football Shirts" y las dependencias que hemos utilizado. Espero que te sirva para entender un poco mas mi proyecto.
+    
+  
+  
+  
+ 
