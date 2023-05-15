@@ -1,6 +1,6 @@
 
 * {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     box-sizing:border-box;
     
@@ -14,7 +14,7 @@
   
   header {
     width: 100%;
-    max-width: 100%;
+    max-width: 1000px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -26,6 +26,11 @@
     position:absolute;
     z-index: 999;
     top: 0;
+    padding: 60px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    
   }
 
 header li a {
@@ -104,5 +109,18 @@ a{
     header li a {
       font-size: 0.8rem; 
       padding: 8px 16px; 
+    }
+  }
+
+  @media screen and (min-width: 768px) {
+    header {
+      height: 10%;
+    }
+  }
+  
+  
+  @media screen and (max-width: 767px) {
+    header {
+       height: 20%;
     }
   }
