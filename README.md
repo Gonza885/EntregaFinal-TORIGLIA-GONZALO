@@ -4,21 +4,27 @@ DEMO: deploy (ACORDATEEE)
 
 ## DESCRIPCIÓN DE LA PAGINA
  ![Inicio FOOTBALL SHIRTS](./public/Images/Markdown/InicioFS.png)
+ 
  Football Shirts es una pagina de venta de camisetas de futbol donde encontraras algunas actuales como tambien retros.
  
  ![Categorias FOOTBALL SHIRTS](./public/Images/Markdown/HeaderFS.png)
+ 
   Como se puede apreciar en la imagen, tenemos para seleccionar el tipo de camiseta que buscamos, separadas en dos categorias "Retro" para camisetas mas antiguas y "Camisetas" para casacas mas modernas.
   
   ![Descripcion FOOTBALL SHIRTS](./public/Images/Markdown/DescripcionProductosFS.png)
-  En cada producto del inicio encontramos un link de "ver detalles" que nos llevara a la descripcion del producto seleccionado y en el cual podremos saber su precio, como asi tambien saber las cantidades que querramos adquirir o no. Tambien nos muestra un boton de "Agregar al carrito" en caso de que queramos guardar nuestro producto y seguir comprando.
+  
+  En cada producto del inicio encontramos un link de "ver detalles" que nos llevara a la descripcion del producto seleccionado y en el cual podremos saber su precio, como asi tambien saber las cantidades que querramos     adquirir o no. Tambien nos muestra un boton de "Agregar al carrito" en caso de que queramos guardar nuestro producto y seguir comprando.
   
  ![Informacion FOOTBALL SHIRTS](./public/Images/Markdown/DescripcionCompraProducto.png)
+ 
   Se muestra lo que tenemos en el carrito.
   
 ![Formulario FOOTBALL SHIRTS](./public/Images/Markdown/FormularioPreCompraFS.png)
+
    Previamente a la compra de nuestro producto, la pagina nos mostrara un formulario para generar la "orden de compra" y en el cual deberemos completar OBLIGATORIAMENTE sus campos para poder adquirir definitivamente nuestro producto.
    
 ![Informacion FOOTBALL SHIRTS](./public/Images/Markdown/OrdenGeneradaFS.png)
+
     Una vez que nuestra compra fue realizada con éxito, se genera la orden de compra como se muestra en la imagen y ya hemos adquirido el producto.
     
     ##DEPENDENCIAS USADAS EN EL PROYECTO.
