@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6842d6d8.css",
+    "main.js": "/static/js/main.40b2386f.js",
+    "static/media/canchaarriba (1).jpg": "/static/media/canchaarriba (1).ab9f70b4d8a560575fe7.jpg",
+    "index.html": "/index.html",
+    "main.6842d6d8.css.map": "/static/css/main.6842d6d8.css.map",
+    "main.40b2386f.js.map": "/static/js/main.40b2386f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6842d6d8.css",
+    "static/js/main.40b2386f.js"
+  ]
+}
