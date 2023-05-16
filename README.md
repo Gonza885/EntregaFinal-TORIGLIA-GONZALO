@@ -3,8 +3,9 @@
 DEMO: deploy (ACORDATEEE)
 
 ## DESCRIPCIÓN DE LA PAGINA
- ![Inicio FOOTBALL SHIRTS](https://previews.dropbox.com/p/thumb/AB759ALdC9LzBKkgcDj9Bs2S0X3Cw5GEjCxpQwlXQjrGSdrsPO_U2iA0T0qj0Up2-kMXNzozcD6GqGs5G1U_ZvX3PdblVnqEhAbRvKcu1PtUFq-F__7gbBwKDjY0PcBF5MaXAn2a1WAjNl_xxQj9ZvvSPER5mKsvEfsAi-5Ya-u_bbHWYniNSBEGQbTJBqzZaZwM3g0OD6xxDyOO8_SGKgNdfvrIETGg7Z6LQJ0_Sr-KSL0_ySQL17kA3OyBPEUeofNIfAjI8JWzMJrMTVnpxPyhiHwUgThRl0UGKk_v5brEHnuCGPHaqSdhtuFOHvIm9SH23akR_r3lBhmDjTyS6oBl8C8z1gg5SqQgGkGvvVdfaWNEEb4TXrh9E5Bzw31o2K3J5Kpv2_BnBfae5YgPii2CCwd0FLjx-4EFUjM70p7jR6Xry_UuqvSWnQBXKIJg9Yw/p.png)
- Football Shirts es una pagina de venta de camisetas de futbol donde encontraras algunas actuales como tambien retros.  ![Categorias FOOTBALL SHIRTS](https://www.dropbox.com/s/9ndt61ds8j784yi/HeaderFS.png?dl=0)
+ ![Inicio FOOTBALL SHIRTS](./public/Images/Markdown/InicioFS.png)
+ Football Shirts es una pagina de venta de camisetas de futbol donde encontraras algunas actuales como tambien retros.
+ ![Categorias FOOTBALL SHIRTS](./public/Images/Markdown/HeaderFS.png)
   Como se puede apreciar en la imagen, tenemos para seleccionar el tipo de camiseta que buscamos, separadas en dos categorias "Retro" para camisetas mas antiguas y "Camisetas" para casacas mas modernas.
   ![Descripcion FOOTBALL SHIRTS](https://www.dropbox.com/s/jffcu8lqlk6fwut/DescripcionProductosFS.png?dl=0)
   En cada producto del inicio encontramos un link de "ver detalles" que nos llevara a la descripcion del producto seleccionado y en el cual podremos saber su precio, como asi tambien saber las cantidades que querramos adquirir o no. Tambien nos muestra un boton de "Agregar al carrito" en caso de que queramos guardar nuestro producto y seguir comprando.
